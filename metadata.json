@@ -1,0 +1,6 @@
+{
+  "name": "DeepCheckverse",
+  "description": "An intelligent agent that analyzes YouTube videos to detect misinformation, fabricated narratives, or AI-generated fictional content.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
